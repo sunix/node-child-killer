@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "posix": "~1.0.0"
+    "posix": "^4.2.0"
   },
   "devDependencies": {},
   "scripts": {
